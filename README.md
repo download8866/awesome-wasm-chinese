@@ -1,4 +1,4 @@
-# Awesome Wasm [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Wasm 中文版 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Collection of awesome things regarding WebAssembly (wasm) ecosystem.
 
